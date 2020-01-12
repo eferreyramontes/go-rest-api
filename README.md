@@ -20,5 +20,6 @@ go run main.go
 ```
 
 # References
-* [Build a RESTful JSON API with GOlang](ttps://medium.com/the-andela-way/build-a-restful-json-api-with-golang-85a83420c9da).
+* [Build a RESTful JSON API with GOlang](https://medium.com/the-andela-way/build-a-restful-json-api-with-golang-85a83420c9da).
 * [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+* [Golang response snippets](https://www.alexedwards.net/blog/golang-response-snippets)
